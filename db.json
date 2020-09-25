@@ -1,0 +1,95 @@
+{
+    "getUserList": [
+        {
+            "id": 1,
+            "nama": "Inu",
+            "alamat": "Cirebon",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 2,
+            "nama": "Broto",
+            "alamat": "Jogja",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 3,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 4,
+            "nama": "Ibing",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 5,
+            "nama": "Ibong",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 6,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 7,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 8,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 9,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 10,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 11,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 12,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        },
+        {
+            "id": 13,
+            "nama": "Ibang",
+            "alamat": "Surabaya",
+            "umur": 25,
+            "telepon": "089999999"
+        }
+    ]
+}
