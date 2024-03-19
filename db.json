@@ -1,0 +1,288 @@
+{
+  "check": [],
+  "detail": [],
+  "product": [
+    {
+      "id": 52,
+      "name": "GP Cyclops",
+      "visible": 1,
+      "price": 6000000,
+      "currency": "IDR",
+      "description": "<p><strong>THE BEAST IS COMING</strong></p><p>&nbsp;</p><p>The BEST and FIRST projector from Beebot with cornering assist and Hyperboloid Lens that improve the output of the high beam.</p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Hyperboloid Diamond Lens</td></tr><tr><td>Low Beam</td><td>90 Watt</td></tr><tr><td>High Beam</td><td>115 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Pseudo-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Ready</td></tr><tr><td>Cooling</td><td>Vortex Design Cooling System</td></tr><tr><td>Cornering Assist</td><td>Cornering LED on the sides</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2023-06-20T11:11:59.000000Z",
+      "updated_at": "2024-01-16T07:17:20.000000Z",
+      "images": [
+        {
+          "id": 31,
+          "img_src": "/img/product/master/52/gpcyclops.jpeg",
+          "img_alt": "gpcyclops.jpeg",
+          "thumbnail": 1
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "MK1 PRO",
+      "visible": 1,
+      "price": 1800000,
+      "currency": "IDR",
+      "description": "<p><strong>FOG &amp; RAIN KILLER</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>Compact Design</td></tr><tr><td>Low Beam</td><td>25 Watt</td></tr><tr><td>High Beam</td><td>25 Watt</td></tr><tr><td>Lens</td><td>Hi-Low</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2023-03-21T04:18:15.000000Z",
+      "updated_at": "2024-01-16T12:10:23.000000Z",
+      "images": [
+        {
+          "id": 29,
+          "img_src": "/img/product/master/38/SLIDE-1-KTG-MK1.jpg",
+          "img_alt": "SLIDE-1-KTG-MK1.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 30,
+          "img_src": "/img/product/master/38/SLIDE-2-KTG-MK1.jpg",
+          "img_alt": "SLIDE-2-KTG-MK1.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "GR-30",
+      "visible": 1,
+      "price": 950000,
+      "currency": "IDR",
+      "description": "<p><strong>3 Color Bi-Turbo Lighting</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Colors</td><td>3000K/4200K/5700K</td></tr><tr><td>IP Rating</td><td>IP68 Waterproof</td></tr><tr><td>Chip</td><td>G-Power LED</td></tr><tr><td>Technology</td><td>Smart Driver</td></tr><tr><td>Cooling</td><td>Double Ball Bearings</td></tr><tr><td>Low Beam</td><td>40 Watt</td></tr><tr><td>High Beam</td><td>40 Watt</td></tr></tbody></table></figure><p>&nbsp;</p>",
+      "status": 1,
+      "created_at": "2023-03-06T08:34:05.000000Z",
+      "updated_at": "2023-05-02T07:57:54.000000Z",
+      "images": [
+        {
+          "id": 23,
+          "img_src": "/img/product/master/33/KTG POST 1.jpg",
+          "img_alt": "KTG POST 1.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 24,
+          "img_src": "/img/product/master/33/KTG-POST-2.jpg",
+          "img_alt": "KTG-POST-2.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "GR 2.0",
+      "visible": 1,
+      "price": 2750000,
+      "currency": "IDR",
+      "description": "<p><strong>3 Color 2 Inch PnP Foglamp Projector</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>2\" Diamond Lens</td></tr><tr><td>Low Beam</td><td>30 Watt</td></tr><tr><td>High Beam</td><td>35 Watt</td></tr><tr><td>Warranty</td><td>National, 12 Months</td></tr><tr><td>Cooling</td><td>Advanced Cooling System</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-11-19T09:50:09.000000Z",
+      "updated_at": "2023-05-02T07:49:41.000000Z",
+      "images": [
+        {
+          "id": 21,
+          "img_src": "/img/product/master/24/1gr20.jpg",
+          "img_alt": "1gr20.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 22,
+          "img_src": "/img/product/master/24/2gr20.jpg",
+          "img_alt": "2gr20.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "FM5",
+      "visible": 1,
+      "price": 2600000,
+      "currency": "IDR",
+      "description": "<figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specs</th></tr></thead><tbody><tr><td>Lens</td><td>Diamond Cut</td></tr><tr><td>Low Beam</td><td>30 W</td></tr><tr><td>High Beam</td><td>30 W</td></tr><tr><td>Warranty</td><td>12 Months</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-11-19T05:30:37.000000Z",
+      "updated_at": "2023-05-02T06:46:35.000000Z",
+      "images": [
+        {
+          "id": 11,
+          "img_src": "/img/product/master/23/FM 5_1.jpg",
+          "img_alt": "FM 5_1.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 12,
+          "img_src": "/img/product/master/23/FM5_2.jpg",
+          "img_alt": "FM5_2.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "GP 5500K",
+      "visible": 1,
+      "price": 1350000,
+      "currency": "IDR",
+      "description": "<p><strong>Fog &amp; Rain Breaker</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Warranty</td><td>National, 12 Months</td></tr><tr><td>Low Beam</td><td>58 Watt</td></tr><tr><td>High Beam</td><td>58 Watt</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-10-11T05:10:14.000000Z",
+      "updated_at": "2024-01-16T07:13:54.000000Z",
+      "images": [
+        {
+          "id": 17,
+          "img_src": "/img/product/master/21/KTG GP5500K _1.jpg",
+          "img_alt": "KTG GP5500K _1.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 18,
+          "img_src": "/img/product/master/21/KTG GP5500K _2.jpg",
+          "img_alt": "KTG GP5500K _2.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "G7 MK II",
+      "visible": 1,
+      "price": 4000000,
+      "currency": "IDR",
+      "description": "<figure class=\"media\"><oembed url=\"https://www.youtube.com/watch?v=pVm1vOkNBnk&amp;ab_channel=beebotautomotive\"></oembed></figure><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td colspan=\"2\">Specifications</td></tr><tr><td>Design</td><td>3 Inch Diamond Lens &amp; Blue Lens</td></tr><tr><td>Low Beam</td><td>57 Watt</td></tr><tr><td>High Beam</td><td>60 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Cooling</td><td>Advanced Cooling System</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-09-08T03:51:44.000000Z",
+      "updated_at": "2023-05-02T07:15:16.000000Z",
+      "images": [
+        {
+          "id": 15,
+          "img_src": "/img/product/master/19/SLIDE-1-KTG-g7-jpg.jpg",
+          "img_alt": "SLIDE-1-KTG-g7-jpg.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 16,
+          "img_src": "/img/product/master/19/SLIDE-2-KTG-g7-jpg.jpg",
+          "img_alt": "SLIDE-2-KTG-g7-jpg.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "GP FOG LASER",
+      "visible": 1,
+      "price": 5500000,
+      "currency": "IDR",
+      "description": "<p><strong>The Best Rain &amp; Fog Breaker</strong></p><p>&nbsp;</p><blockquote><p>First ever projector series in Indonesia with always-on Laser Assist Technology</p></blockquote><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Diamond Lens</td></tr><tr><td>Low Beam</td><td>65 Watt</td></tr><tr><td>High Beam</td><td>75 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Bi-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Low Beam &amp; High Beam</td></tr><tr><td>Cooling</td><td>State-of-the-art Cooling System</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-09-08T03:49:37.000000Z",
+      "updated_at": "2024-01-16T07:13:42.000000Z",
+      "images": [
+        {
+          "id": 19,
+          "img_src": "/img/product/master/18/KTG GPFOGLASER _1.jpg",
+          "img_alt": "KTG GPFOGLASER _1.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 20,
+          "img_src": "/img/product/master/18/KTG GPFOGLASER _2.jpg",
+          "img_alt": "KTG GPFOGLASER _2.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "FP55",
+      "visible": 1,
+      "price": 3100000,
+      "currency": "IDR",
+      "description": "<figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specs</th></tr></thead><tbody><tr><td>Design</td><td>3 Inch Diamond Lens &amp; Blue Lens</td></tr><tr><td>Low Beam</td><td>50 Watt</td></tr><tr><td>High Beam</td><td>55 Watt</td></tr><tr><td>Warranty</td><td>12 Months</td></tr><tr><td>Cooling</td><td>Advanced cooling system</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-09-05T17:42:31.000000Z",
+      "updated_at": "2024-01-16T07:13:15.000000Z",
+      "images": [
+        {
+          "id": 13,
+          "img_src": "/img/product/master/12/11-fp55.jpg",
+          "img_alt": "11-fp55.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 14,
+          "img_src": "/img/product/master/12/22-fp55.jpg",
+          "img_alt": "22-fp55.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "GR Pro",
+      "visible": 1,
+      "price": 3000000,
+      "currency": "IDR",
+      "description": "<p><strong>The BEST PLUG &amp; PLAY PROJECTOR&nbsp;</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Diamond Lens &amp; Blue Lens</td></tr><tr><td>Low Beam</td><td>55 Watt</td></tr><tr><td>High Beam</td><td>65 Watt</td></tr><tr><td>Warranty</td><td>National, 18 Months</td></tr><tr><td>Installation</td><td>Plug &amp; Play, H4</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Ready</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-06-18T09:22:07.000000Z",
+      "updated_at": "2024-01-16T12:05:29.000000Z",
+      "images": [
+        {
+          "id": 25,
+          "img_src": "/img/product/master/9/SLIDE-1-GR-PRO.jpg",
+          "img_alt": "SLIDE-1-GR-PRO.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 26,
+          "img_src": "/img/product/master/9/SLIDE-2-GR-PRO.jpg",
+          "img_alt": "SLIDE-2-GR-PRO.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "G6 MK III",
+      "visible": 1,
+      "price": 3300000,
+      "currency": "IDR",
+      "description": "<p>G6 MARK III&nbsp;</p><p>&nbsp;</p><ul><li>flat cut off with laser assist tech&nbsp;</li><li>Low Beam 55 Watt&nbsp;</li><li>High Beam 65 Watt</li></ul>",
+      "status": 1,
+      "created_at": "2022-06-18T09:21:54.000000Z",
+      "updated_at": "2024-01-15T13:18:08.000000Z",
+      "images": [
+        {
+          "id": 5,
+          "img_src": "/img/product/master/8/G6 MK III.png",
+          "img_alt": "G6 MK III.png",
+          "thumbnail": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "G2",
+      "visible": 1,
+      "price": 2150000,
+      "currency": "IDR",
+      "description": "<p>Projector LED 2.5\"</p><p>Low Beam 40W</p><p>High Beam 47W</p><p>&nbsp;</p>",
+      "status": 1,
+      "created_at": "2022-04-30T17:50:31.000000Z",
+      "updated_at": "2023-06-27T08:53:58.000000Z",
+      "images": [
+        {
+          "id": 1,
+          "img_src": "/img/product/master/1/G2.jpeg",
+          "img_alt": "G2.jpeg",
+          "thumbnail": 1
+        }
+      ]
+    }
+  ]
+}
