@@ -3,24 +3,55 @@
   "detail": [],
   "product": [
     {
-      "id": 52,
-      "name": "GP Cyclops",
-      "visible": 1,
-      "price": 6000000,
-      "currency": "IDR",
-      "description": "<p><strong>THE BEAST IS COMING</strong></p><p>&nbsp;</p><p>The BEST and FIRST projector from Beebot with cornering assist and Hyperboloid Lens that improve the output of the high beam.</p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Hyperboloid Diamond Lens</td></tr><tr><td>Low Beam</td><td>90 Watt</td></tr><tr><td>High Beam</td><td>115 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Pseudo-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Ready</td></tr><tr><td>Cooling</td><td>Vortex Design Cooling System</td></tr><tr><td>Cornering Assist</td><td>Cornering LED on the sides</td></tr></tbody></table></figure>",
-      "status": 1,
-      "created_at": "2023-06-20T11:11:59.000000Z",
-      "updated_at": "2024-01-16T07:17:20.000000Z",
-      "images": [
-        {
-          "id": 31,
-          "img_src": "/img/product/master/52/gpcyclops.jpeg",
-          "img_alt": "gpcyclops.jpeg",
-          "thumbnail": 1
-        }
-      ]
-    },
+    "id": 19,
+    "name": "G7 MK II",
+    "visible": 1,
+    "price": 4000000,
+    "currency": "IDR",
+    "description": "<figure class=\"media\"><oembed url=\"https://www.youtube.com/watch?v=pVm1vOkNBnk&amp;ab_channel=beebotautomotive\"></oembed></figure><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td colspan=\"2\">Specifications</td></tr><tr><td>Design</td><td>3 Inch Diamond Lens &amp; Blue Lens</td></tr><tr><td>Low Beam</td><td>57 Watt</td></tr><tr><td>High Beam</td><td>60 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Cooling</td><td>Advanced Cooling System</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+    "status": 1,
+    "created_at": "2022-09-08T03:51:44.000000Z",
+    "updated_at": "2023-05-02T07:15:16.000000Z",
+    "images": [
+      {
+        "id": 15,
+        "img_src": "/img/product/master/19/SLIDE-1-KTG-g7-jpg.jpg",
+        "img_alt": "SLIDE-1-KTG-g7-jpg.jpg",
+        "thumbnail": 1
+      },
+      {
+        "id": 16,
+        "img_src": "/img/product/master/19/SLIDE-2-KTG-g7-jpg.jpg",
+        "img_alt": "SLIDE-2-KTG-g7-jpg.jpg",
+        "thumbnail": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "GP FOG LASER",
+    "visible": 1,
+    "price": 5500000,
+    "currency": "IDR",
+    "description": "<p><strong>The Best Rain &amp; Fog Breaker</strong></p><p>&nbsp;</p><blockquote><p>First ever projector series in Indonesia with always-on Laser Assist Technology</p></blockquote><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Diamond Lens</td></tr><tr><td>Low Beam</td><td>65 Watt</td></tr><tr><td>High Beam</td><td>75 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Bi-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Low Beam &amp; High Beam</td></tr><tr><td>Cooling</td><td>State-of-the-art Cooling System</td></tr></tbody></table></figure>",
+    "status": 1,
+    "created_at": "2022-09-08T03:49:37.000000Z",
+    "updated_at": "2024-01-16T07:13:42.000000Z",
+    "images": [
+      {
+        "id": 19,
+        "img_src": "/img/product/master/18/KTG GPFOGLASER _1.jpg",
+        "img_alt": "KTG GPFOGLASER _1.jpg",
+        "thumbnail": 1
+      },
+      {
+        "id": 20,
+        "img_src": "/img/product/master/18/KTG GPFOGLASER _2.jpg",
+        "img_alt": "KTG GPFOGLASER _2.jpg",
+        "thumbnail": 0
+      }
+    ]
+  },
     {
       "id": 38,
       "name": "MK1 PRO",
