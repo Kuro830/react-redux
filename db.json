@@ -45,15 +45,9 @@
     "videos": [
       {
         "id": 1,
-        "name": "Product 1",
-        "description": "Description for Product 1",
-        "url": "https://www.example.com/video1"
-      },
-      {
-        "id": 2,
-        "name": "Product 2",
-        "description": "Description for Product 2",
-        "url": "https://www.example.com/video2"
+        "name": "G7 MKII Beebot official",
+        "description": "Review Beebot G7 MKII",
+        "url": "https://www.youtube.com/watch?v=myxn5NYE16E&ab_channel=BeebotOfficialPalembang"
       }
     ]
   },
