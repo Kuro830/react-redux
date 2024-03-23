@@ -45,9 +45,15 @@
     "videos": [
       {
         "id": 1,
-        "name": "G7 MKII Beebot official",
+        "name": "G7 MKII Beebot official Palembang",
         "description": "Review Beebot G7 MKII",
-        "url": "https://www.youtube.com/watch?v=myxn5NYE16E&ab_channel=BeebotOfficialPalembang"
+        "url": "https://www.youtube.com/embed/myxn5NYE16E"
+      },
+      {
+        "id": 2,
+        "name": "Review BEEBOT G7 Mark-II di Suzuki Ertiga | Paling Terang‼",
+        "description": "Review Pemasangan Beebot G7 MKII Suzuki Ertiga",
+        "url": "https://www.youtube.com/embed/XcIiICFkFYo"
       }
     ]
   },
