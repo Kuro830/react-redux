@@ -156,56 +156,6 @@
           "thumbnail": 0
         }
       ]
-    },
-    {
-      "id": 23,
-      "name": "FM5",
-      "visible": 1,
-      "price": 2600000,
-      "currency": "IDR",
-      "description": "<figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specs</th></tr></thead><tbody><tr><td>Lens</td><td>Diamond Cut</td></tr><tr><td>Low Beam</td><td>30 W</td></tr><tr><td>High Beam</td><td>30 W</td></tr><tr><td>Warranty</td><td>12 Months</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
-      "status": 1,
-      "created_at": "2022-11-19T05:30:37.000000Z",
-      "updated_at": "2023-05-02T06:46:35.000000Z",
-      "images": [
-        {
-          "id": 11,
-          "img_src": "/img/product/master/23/FM 5_1.jpg",
-          "img_alt": "FM 5_1.jpg",
-          "thumbnail": 1
-        },
-        {
-          "id": 12,
-          "img_src": "/img/product/master/23/FM5_2.jpg",
-          "img_alt": "FM5_2.jpg",
-          "thumbnail": 0
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "name": "GP 5500K",
-      "visible": 1,
-      "price": 1350000,
-      "currency": "IDR",
-      "description": "<p><strong>Fog &amp; Rain Breaker</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Warranty</td><td>National, 12 Months</td></tr><tr><td>Low Beam</td><td>58 Watt</td></tr><tr><td>High Beam</td><td>58 Watt</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
-      "status": 1,
-      "created_at": "2022-10-11T05:10:14.000000Z",
-      "updated_at": "2024-01-16T07:13:54.000000Z",
-      "images": [
-        {
-          "id": 17,
-          "img_src": "/img/product/master/21/KTG GP5500K _1.jpg",
-          "img_alt": "KTG GP5500K _1.jpg",
-          "thumbnail": 1
-        },
-        {
-          "id": 18,
-          "img_src": "/img/product/master/21/KTG GP5500K _2.jpg",
-          "img_alt": "KTG GP5500K _2.jpg",
-          "thumbnail": 0
-        }
-      ]
     }
   ],
   "stores": [
