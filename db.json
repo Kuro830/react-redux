@@ -56,56 +56,6 @@
           "url": "https://www.youtube.com/embed/XcIiICFkFYo"
         }
       ]
-    },
-    {
-      "id": 18,
-      "name": "GP FOG LASER",
-      "visible": 1,
-      "price": 5500000,
-      "currency": "IDR",
-      "description": "<p><strong>The Best Rain &amp; Fog Breaker</strong></p><p>&nbsp;</p><blockquote><p>First ever projector series in Indonesia with always-on Laser Assist Technology</p></blockquote><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Diamond Lens</td></tr><tr><td>Low Beam</td><td>65 Watt</td></tr><tr><td>High Beam</td><td>75 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Bi-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Low Beam &amp; High Beam</td></tr><tr><td>Cooling</td><td>State-of-the-art Cooling System</td></tr></tbody></table></figure>",
-      "status": 1,
-      "created_at": "2022-09-08T03:49:37.000000Z",
-      "updated_at": "2024-01-16T07:13:42.000000Z",
-      "images": [
-        {
-          "id": 19,
-          "img_src": "/img/product/master/18/KTG GPFOGLASER _1.jpg",
-          "img_alt": "KTG GPFOGLASER _1.jpg",
-          "thumbnail": 1
-        },
-        {
-          "id": 20,
-          "img_src": "/img/product/master/18/KTG GPFOGLASER _2.jpg",
-          "img_alt": "KTG GPFOGLASER _2.jpg",
-          "thumbnail": 0
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "name": "MK1 PRO",
-      "visible": 1,
-      "price": 1800000,
-      "currency": "IDR",
-      "description": "<p><strong>FOG &amp; RAIN KILLER</strong></p><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>Compact Design</td></tr><tr><td>Low Beam</td><td>25 Watt</td></tr><tr><td>High Beam</td><td>25 Watt</td></tr><tr><td>Lens</td><td>Hi-Low</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
-      "status": 1,
-      "created_at": "2023-03-21T04:18:15.000000Z",
-      "updated_at": "2024-01-16T12:10:23.000000Z",
-      "images": [
-        {
-          "id": 29,
-          "img_src": "/img/product/master/38/SLIDE-1-KTG-MK1.jpg",
-          "img_alt": "SLIDE-1-KTG-MK1.jpg",
-          "thumbnail": 1
-        },
-        {
-          "id": 30,
-          "img_src": "/img/product/master/38/SLIDE-2-KTG-MK1.jpg",
-          "img_alt": "SLIDE-2-KTG-MK1.jpg",
-          "thumbnail": 0
-        }
-      ]
     }
   ],
   "stores": [
