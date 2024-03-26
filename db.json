@@ -207,5 +207,794 @@
         }
       ]
     }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "name": "Nurmaras Autolamp",
+      "gmap": "https://goo.gl/maps/9ayfg2mWZxRT2u486",
+      "visible": 1,
+      "accounts": {
+        "facebook": "NurmarasAutolamp",
+        "whatsapp": "628197995858",
+        "instagram": "nurmaras_autolamp"
+      },
+      "coordinates": {
+        "latitude": -6.2485193,
+        "longitude": 106.9696573
+      }
+    },
+    {
+      "id": 2,
+      "name": "Beebot Asia",
+      "gmap": "https://goo.gl/maps/4pNMZuVP6R2W4dgb9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281275252832",
+        "instagram": "beebot_asia"
+      },
+      "coordinates": {
+        "latitude": -6.1550794,
+        "longitude": 106.7167771
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sekip Jaya Palembang",
+      "gmap": "https://goo.gl/maps/x2a553u8gLZgNACM6",
+      "visible": 1,
+      "accounts": {
+        "youtube": "https://youtube.com/channel/UC35CDQ6CXMmLTPpXiOz9DPA",
+        "whatsapp": "6282183607676",
+        "instagram": "sekipjayapalembang"
+      },
+      "coordinates": {
+        "latitude": -2.967983,
+        "longitude": 104.754521
+      }
+    },
+    {
+      "id": 4,
+      "name": "King AutoLights",
+      "gmap": "https://goo.gl/maps/m9HCmpNfbDnu2p4KA",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282137670101",
+        "instagram": "king_autolights"
+      },
+      "coordinates": {
+        "latitude": -7.80268,
+        "longitude": 110.4105159
+      }
+    },
+    {
+      "id": 5,
+      "name": "Metro Variasi Jember",
+      "gmap": "https://goo.gl/maps/zQhRHBZKTwAC7Mu76",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "628123569085",
+        "instagram": "metrovariasijember"
+      },
+      "coordinates": {
+        "latitude": -8.1719086,
+        "longitude": 113.6916417
+      }
+    },
+    {
+      "id": 6,
+      "name": "SMD Variasi",
+      "gmap": "https://g.page/smdvariasi?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281379566822",
+        "instagram": "smdvariasi"
+      },
+      "coordinates": {
+        "latitude": -5.4132226,
+        "longitude": 105.2833369
+      }
+    },
+    {
+      "id": 7,
+      "name": "DW Car Lampung",
+      "gmap": "https://goo.gl/maps/N6g77PLCYMZ68PD29",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281379462777",
+        "instagram": "dw_caraudio"
+      },
+      "coordinates": {
+        "latitude": -5.3898853,
+        "longitude": 105.2722611
+      }
+    },
+    {
+      "id": 8,
+      "name": "Otofine garage",
+      "gmap": "https://g.page/OtofineGarage",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "62817385105",
+        "instagram": "otofine.garage"
+      },
+      "coordinates": {
+        "latitude": -6.9768228,
+        "longitude": 110.3981469
+      }
+    },
+    {
+      "id": 9,
+      "name": "Meongspeed",
+      "gmap": "https://g.page/meongspeedgarage?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282135473975",
+        "instagram": "meongspeed.garage"
+      },
+      "coordinates": {
+        "latitude": -7.4212454,
+        "longitude": 109.2150936
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ledpro 13",
+      "gmap": "https://goo.gl/maps/PHRP8cNQGcECDQ8A7",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6285361445737",
+        "instagram": "ledpro13_medan"
+      },
+      "coordinates": {
+        "latitude": 3.5245437,
+        "longitude": 98.6724195
+      }
+    },
+    {
+      "id": 11,
+      "name": "Zona Audio Medan",
+      "gmap": "https://maps.app.goo.gl/82ChdDD1PuDNFtVZ7",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "628116103838",
+        "instagram": "zonaaudio_medan"
+      },
+      "coordinates": {
+        "latitude": 3.6021316238415486,
+        "longitude": 98.645102115475
+      }
+    },
+    {
+      "id": 13,
+      "name": "Sanjaya Ac & Lighting",
+      "gmap": "https://g.page/sanjaya-accessories?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "628127646685",
+        "instagram": "sanjaya.ac.lighting"
+      },
+      "coordinates": {
+        "latitude": 0.5243226135867024,
+        "longitude": 101.47795995721758
+      }
+    },
+    {
+      "id": 14,
+      "name": "Wijaya Motor Ngawi",
+      "gmap": "https://g.page/wijayamotorngawi?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282227877077",
+        "instagram": "wijayamotorngawi"
+      },
+      "coordinates": {
+        "latitude": -7.4127672,
+        "longitude": 111.4405514
+      }
+    },
+    {
+      "id": 15,
+      "name": "Projie-Nethics",
+      "gmap": "https://g.page/ProjieNethics?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282218588887",
+        "instagram": "projienethics_auto"
+      },
+      "coordinates": {
+        "latitude": -6.9307707,
+        "longitude": 107.6157532
+      }
+    },
+    {
+      "id": 16,
+      "name": "Fit Audio BSD",
+      "gmap": "https://goo.gl/maps/vjsp7dVJFhGP8rV19",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281932335558",
+        "instagram": "fit_audio_bsd"
+      },
+      "coordinates": {
+        "latitude": -6.2955399476934,
+        "longitude": 106.67944522132656
+      }
+    },
+    {
+      "id": 17,
+      "name": "Upgrade Variasi",
+      "gmap": "https://goo.gl/maps/Fvud3MSjGNfLDXxaA",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282194117777",
+        "instagram": "upgrade.variasi"
+      },
+      "coordinates": {
+        "latitude": -0.892642,
+        "longitude": 119.8432634
+      }
+    },
+    {
+      "id": 18,
+      "name": "West Garage Custom",
+      "gmap": "https://goo.gl/maps/59wtiTJBNYqsQL9k6",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281233225353",
+        "instagram": "westgaragecustom"
+      },
+      "coordinates": {
+        "latitude": -7.2813531,
+        "longitude": 112.7144127
+      }
+    },
+    {
+      "id": 19,
+      "name": "Sandy Audioworks",
+      "gmap": "https://g.page/sandy-audio-variasi-tulungagung?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281330330350",
+        "instagram": "sandyaudioworks"
+      },
+      "coordinates": {
+        "latitude": -8.0727198,
+        "longitude": 111.8919432
+      }
+    },
+    {
+      "id": 20,
+      "name": "Fajar Mobil",
+      "gmap": "https://g.page/fajarmobil?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282189137808",
+        "instagram": "fajarmobiljogja"
+      },
+      "coordinates": {
+        "latitude": -7.8108699,
+        "longitude": 110.401189
+      }
+    },
+    {
+      "id": 21,
+      "name": "Binar Lampung",
+      "gmap": "https://g.page/retrovers-lampung?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282289889988",
+        "instagram": "binar_lampung"
+      },
+      "coordinates": {
+        "latitude": -5.3979996,
+        "longitude": 105.1990477
+      }
+    },
+    {
+      "id": 22,
+      "name": "TDL Garage",
+      "gmap": "https://goo.gl/maps/TEuC8wRjJd2jBm3NA",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282389880868",
+        "instagram": "tdl_garage"
+      },
+      "coordinates": {
+        "latitude": -0.9242726019350012,
+        "longitude": 100.37275235255684
+      }
+    },
+    {
+      "id": 24,
+      "name": "Hitech Concept",
+      "gmap": "https://goo.gl/maps/oLuMVdW2rceSGeaL8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281280000687",
+        "instagram": "hitech_concept"
+      },
+      "coordinates": {
+        "latitude": -6.348101433559204,
+        "longitude": 106.83891275878632
+      }
+    },
+    {
+      "id": 25,
+      "name": "76variasi",
+      "gmap": "https://g.page/76variasi?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281253987797",
+        "instagram": "76variasi"
+      },
+      "coordinates": {
+        "latitude": -3.3536748,
+        "longitude": 114.6270307
+      }
+    },
+    {
+      "id": 26,
+      "name": "Oscar Variasi",
+      "gmap": "https://maps.app.goo.gl/HRwSWGW75HTbTsX29",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282154030304",
+        "instagram": "oscar_variasi"
+      },
+      "coordinates": {
+        "latitude": -3.4490455317291437,
+        "longitude": 114.7941665705452
+      }
+    },
+    {
+      "id": 27,
+      "name": "Rosa Variasi",
+      "gmap": "https://g.page/rosa-variasi?share",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281242663043",
+        "instagram": "rosa_variasi"
+      },
+      "coordinates": {
+        "latitude": -4.1393178,
+        "longitude": 104.1780165
+      }
+    },
+    {
+      "id": 28,
+      "name": "GankBeebot Kediri",
+      "gmap": "https://goo.gl/maps/SeCvbLnBKt2jkLm99",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281358039909",
+        "instagram": "genk_beebot_kediri"
+      },
+      "coordinates": {
+        "latitude": -7.8164023,
+        "longitude": 112.0195657
+      }
+    },
+    {
+      "id": 29,
+      "name": "Wahana Autolight",
+      "gmap": "https://goo.gl/maps/9NGxPanjQ9165APm8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6283834291989",
+        "instagram": "wahana_autolight"
+      },
+      "coordinates": {
+        "latitude": -7.9539435,
+        "longitude": 112.6939338
+      }
+    },
+    {
+      "id": 30,
+      "name": "Auto Ban Tuban",
+      "gmap": "https://goo.gl/maps/ZrxGdAGxuHvwrzUm6",
+      "visible": 1,
+      "accounts": {
+        "facebook": "autoban58",
+        "whatsapp": "6281330374374",
+        "instagram": "autoban58"
+      },
+      "coordinates": {
+        "latitude": -6.8924102,
+        "longitude": 112.0353355
+      }
+    },
+    {
+      "id": 31,
+      "name": "Libra Variasi",
+      "gmap": "https://goo.gl/maps/XWqDYm3nX6f8DimeA",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281806081847",
+        "instagram": "libravariasi"
+      },
+      "coordinates": {
+        "latitude": -6.7108964,
+        "longitude": 108.542626
+      }
+    },
+    {
+      "id": 33,
+      "name": "H2R Audio Madiun",
+      "gmap": "https://goo.gl/maps/fsA4NpwBvK37s3APA",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281259491111",
+        "instagram": "h2raudiomadiun"
+      },
+      "coordinates": {
+        "latitude": -7.64819,
+        "longitude": 111.5277127
+      }
+    },
+    {
+      "id": 34,
+      "name": "Muara Motor",
+      "gmap": "https://goo.gl/maps/3EQw9mRH7P9EvQiR8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281290601850",
+        "instagram": "muaramtr"
+      },
+      "coordinates": {
+        "latitude": -6.3075398,
+        "longitude": 106.9552038
+      }
+    },
+    {
+      "id": 35,
+      "name": "Beebot Bogor",
+      "gmap": "https://goo.gl/maps/V38ABN87Di9oNJp39",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281294379770",
+        "instagram": "beebotbogor"
+      },
+      "coordinates": {
+        "latitude": -6.469825,
+        "longitude": 106.85102
+      }
+    },
+    {
+      "id": 36,
+      "name": "Victory Autolamp",
+      "gmap": "https://goo.gl/maps/szuzUSi6knTnzQDR8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281333050411",
+        "instagram": "victory.autolamp"
+      },
+      "coordinates": {
+        "latitude": -7.2919465,
+        "longitude": 112.7243285
+      }
+    },
+    {
+      "id": 37,
+      "name": "DS Auto Light",
+      "gmap": "https://goo.gl/maps/b6Qpj1ExRxu1qjuY9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282257463758",
+        "instagram": "yoong_motor_surabaya_utara"
+      },
+      "coordinates": {
+        "latitude": -7.2469552,
+        "longitude": 112.7299148
+      }
+    },
+    {
+      "id": 38,
+      "name": "JL Variasi",
+      "gmap": "https://goo.gl/maps/GqwTySShcRWYZh1b9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282189358425",
+        "instagram": "beebot_jayapura"
+      },
+      "coordinates": {
+        "latitude": -2.563833,
+        "longitude": 140.7010731
+      }
+    },
+    {
+      "id": 39,
+      "name": "Station Autolamp",
+      "gmap": "https://goo.gl/maps/GroiEkApgqdZmzEm9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281328265719",
+        "instagram": "station_autolampjogja"
+      },
+      "coordinates": {
+        "latitude": -7.7555652,
+        "longitude": 110.3691794
+      }
+    },
+    {
+      "id": 40,
+      "name": "DMG Light",
+      "gmap": "https://goo.gl/maps/QtfGWEEdGrgPgSAa8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6285267344446",
+        "instagram": "dmgbeebot_automotive"
+      },
+      "coordinates": {
+        "latitude": -2.519009,
+        "longitude": 104.0611482
+      }
+    },
+    {
+      "id": 41,
+      "name": "Garasi Sinar Blitar",
+      "gmap": "https://goo.gl/maps/ynF4Tn1gRXJcYK2U7",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6285866009000"
+      },
+      "coordinates": {
+        "latitude": -8.1176897,
+        "longitude": 112.2731435
+      }
+    },
+    {
+      "id": 42,
+      "name": "Ag Projector",
+      "gmap": "https://goo.gl/maps/Bb8vvbcxGbzLwMnt8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281283777712",
+        "instagram": "agvariasi"
+      },
+      "coordinates": {
+        "latitude": -6.5728382,
+        "longitude": 106.745774
+      }
+    },
+    {
+      "id": 43,
+      "name": "Era variasi",
+      "gmap": "https://goo.gl/maps/tvM8uYJufwDNE8E99",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281349647039",
+        "instagram": "era_variasi_mobil"
+      },
+      "coordinates": {
+        "latitude": -0.033661,
+        "longitude": 109.3317531
+      }
+    },
+    {
+      "id": 45,
+      "name": "Adiguna Autolamp",
+      "gmap": "https://goo.gl/maps/RvkHYMyc4rCH93Vz5",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "62819630607",
+        "instagram": "adiguna.autolamp"
+      },
+      "coordinates": {
+        "latitude": -6.2529260540949485,
+        "longitude": 107.03209587042552
+      }
+    },
+    {
+      "id": 46,
+      "name": "Beamwerkz",
+      "gmap": "https://goo.gl/maps/4iiGaQsaiKU2BBc86",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6285219222525",
+        "instagram": "beamwerkz"
+      },
+      "coordinates": {
+        "latitude": -6.271829026358564,
+        "longitude": 106.63315304057824
+      }
+    },
+    {
+      "id": 48,
+      "name": "Champion Autolamp",
+      "gmap": "https://goo.gl/maps/sA1wcacBfC6VKNQp8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281287657581",
+        "instagram": "champion.autolamp"
+      },
+      "coordinates": {
+        "latitude": -0.4744695021795553,
+        "longitude": 117.15396037188778
+      }
+    },
+    {
+      "id": 49,
+      "name": "Andrew Ten Modification Makassar",
+      "gmap": "https://goo.gl/maps/Cox8vTBP1oeg89iw9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "+62 813-4009-0100",
+        "instagram": "andrewtenmodification"
+      },
+      "coordinates": {
+        "latitude": -5.189928657925536,
+        "longitude": 119.44347384996792
+      }
+    },
+    {
+      "id": 50,
+      "name": "BW Autolamp",
+      "gmap": "https://maps.app.goo.gl/FUbpWAzHcoYxbL9K7?g_st=ic",
+      "visible": 1,
+      "accounts": {
+        "instagram": "bw_autolamp"
+      },
+      "coordinates": {
+        "latitude": -6.1923428,
+        "longitude": 106.9778139
+      }
+    },
+    {
+      "id": 51,
+      "name": "Home Variasi",
+      "gmap": "https://goo.gl/maps/S8ExRykzQp3oUMfa8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "087777005830",
+        "instagram": "homevariasi_garut"
+      },
+      "coordinates": {
+        "latitude": -7.215481439031964,
+        "longitude": 107.89917111951812
+      }
+    },
+    {
+      "id": 52,
+      "name": "blitz pekalongan",
+      "gmap": "https://goo.gl/maps/9EKVgAx9GJaVMnoZ9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6285774931749",
+        "instagram": "blitz_pekalongan"
+      },
+      "coordinates": {
+        "latitude": -6.9028432844576395,
+        "longitude": 109.68753286671384
+      }
+    },
+    {
+      "id": 53,
+      "name": "Kedai Automotive",
+      "gmap": "https://goo.gl/maps/HyXrWoDWk7j6vjcr5",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6281271763970",
+        "instagram": "kedaiautomotive"
+      },
+      "coordinates": {
+        "latitude": 3.585551187077055,
+        "longitude": 98.62230417279464
+      }
+    },
+    {
+      "id": 54,
+      "name": "JAWARA Auto",
+      "gmap": "https://maps.app.goo.gl/KreYWXH3U7YQT9dC9",
+      "visible": 1,
+      "accounts": {
+        "youtube": "",
+        "facebook": "",
+        "whatsapp": "08112881108",
+        "instagram": "jawara_auto"
+      },
+      "coordinates": {
+        "latitude": -7.603916270413518,
+        "longitude": 110.81203427569528
+      }
+    },
+    {
+      "id": 55,
+      "name": "Dante Autolight",
+      "gmap": "https://maps.app.goo.gl/y3uTAT4fmqkDkDPC8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "0811525145",
+        "instagram": "dante_autolight"
+      },
+      "coordinates": {
+        "latitude": -2.5407930496181295,
+        "longitude": 112.9561851301862
+      }
+    },
+    {
+      "id": 56,
+      "name": "Autobless",
+      "gmap": "https://maps.app.goo.gl/8WNnA8dNrsKzkJSX8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "085776388818",
+        "instagram": "autobless"
+      },
+      "coordinates": {
+        "latitude": -6.176706438761742,
+        "longitude": 106.85855337145192
+      }
+    },
+    {
+      "id": 57,
+      "name": "WillAutolamp",
+      "gmap": "https://maps.app.goo.gl/Ji68afFVivXL2pRy8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "081513079084",
+        "instagram": "will_autolamp"
+      },
+      "coordinates": {
+        "latitude": -6.222316698275162,
+        "longitude": 106.61620365149696
+      }
+    },
+    {
+      "id": 58,
+      "name": "Champion Autogarage Balikpapan",
+      "gmap": "https://maps.app.goo.gl/ZDaEc6J6xA5agfh26",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "6282220607085",
+        "instagram": "champion.autolamp.bpn"
+      },
+      "coordinates": {
+        "latitude": -1.2667758480582083,
+        "longitude": 116.83733714110453
+      }
+    },
+    {
+      "id": 59,
+      "name": "Danish Autolight",
+      "gmap": "https://maps.app.goo.gl/ZJJQL4QE8Lw6vYCh9",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "628116878555",
+        "instagram": "danishautolamp"
+      },
+      "coordinates": {
+        "latitude": 5.5181939,
+        "longitude": 95.3149899
+      }
+    },
+    {
+      "id": 60,
+      "name": "Garasi 669 - Sekayu, Sumatera Selatan",
+      "gmap": "https://maps.app.goo.gl/AxD4WAyQvu5udL6VA",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "081272623431",
+        "instagram": "beebotautomotive_babat.toman"
+      },
+      "coordinates": {
+        "latitude": -2.739515029687207,
+        "longitude": 103.64013317276768
+      }
+    },
+    {
+      "id": 62,
+      "name": "Kubu Autolamp",
+      "gmap": "https://maps.app.goo.gl/YgxbSfhzcu89ertv8",
+      "visible": 1,
+      "accounts": {
+        "whatsapp": "082177966590",
+        "instagram": "kubuautolampjambi"
+      },
+      "coordinates": {
+        "latitude": -1.623994428077984,
+        "longitude": 103.59709539597294
+      }
+    }
   ]
 }
