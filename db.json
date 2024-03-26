@@ -3,85 +3,85 @@
   "detail": [],
   "product": [
     {
-    "id": 19,
-    "name": "G7 MK II",
-    "visible": 1,
-    "price": 4000000,
-    "currency": "IDR",
-    "description": "<figure class=\"media\"><oembed url=\"https://www.youtube.com/watch?v=pVm1vOkNBnk&amp;ab_channel=beebotautomotive\"></oembed></figure><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td colspan=\"2\">Specifications</td></tr><tr><td>Design</td><td>3 Inch Diamond Lens &amp; Blue Lens</td></tr><tr><td>Low Beam</td><td>57 Watt</td></tr><tr><td>High Beam</td><td>60 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Cooling</td><td>Advanced Cooling System</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
-    "status": 1,
-    "created_at": "2022-09-08T03:51:44.000000Z",
-    "updated_at": "2023-05-02T07:15:16.000000Z",
-    "images": [
-      {
-        "id": 15,
-        "img_src": "/img/product/master/19/SLIDE-1-KTG-g7-jpg.jpg",
-        "img_alt": "SLIDE-1-KTG-g7-jpg.jpg",
-        "thumbnail": 1
-      },
-      {
-        "id": 16,
-        "img_src": "/img/product/master/19/SLIDE-2-KTG-g7-jpg.jpg",
-        "img_alt": "SLIDE-2-KTG-g7-jpg.jpg",
-        "thumbnail": 0
-      }
-    ],
-    "review":[
-      {
-        "id": 1,
-        "name": "John Doe",
-        "rating": 4,
-        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "created_at": "2024-03-02T07:15:16.000000Z"
-      },
-      {
-        "id": 2,
-        "name": "Jane Smith",
-        "rating": 5,
-        "review": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "created_at": "2023-12-02T07:15:16.000000Z"
-      }
-    ],
-    "videos": [
-      {
-        "id": 1,
-        "name": "G7 MKII Beebot official Palembang",
-        "description": "Review Beebot G7 MKII",
-        "url": "https://www.youtube.com/embed/myxn5NYE16E"
-      },
-      {
-        "id": 2,
-        "name": "Review BEEBOT G7 Mark-II di Suzuki Ertiga | Paling Terang‼",
-        "description": "Review Pemasangan Beebot G7 MKII Suzuki Ertiga",
-        "url": "https://www.youtube.com/embed/XcIiICFkFYo"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "GP FOG LASER",
-    "visible": 1,
-    "price": 5500000,
-    "currency": "IDR",
-    "description": "<p><strong>The Best Rain &amp; Fog Breaker</strong></p><p>&nbsp;</p><blockquote><p>First ever projector series in Indonesia with always-on Laser Assist Technology</p></blockquote><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Diamond Lens</td></tr><tr><td>Low Beam</td><td>65 Watt</td></tr><tr><td>High Beam</td><td>75 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Bi-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Low Beam &amp; High Beam</td></tr><tr><td>Cooling</td><td>State-of-the-art Cooling System</td></tr></tbody></table></figure>",
-    "status": 1,
-    "created_at": "2022-09-08T03:49:37.000000Z",
-    "updated_at": "2024-01-16T07:13:42.000000Z",
-    "images": [
-      {
-        "id": 19,
-        "img_src": "/img/product/master/18/KTG GPFOGLASER _1.jpg",
-        "img_alt": "KTG GPFOGLASER _1.jpg",
-        "thumbnail": 1
-      },
-      {
-        "id": 20,
-        "img_src": "/img/product/master/18/KTG GPFOGLASER _2.jpg",
-        "img_alt": "KTG GPFOGLASER _2.jpg",
-        "thumbnail": 0
-      }
-    ]
-  },
+      "id": 19,
+      "name": "G7 MK II",
+      "visible": 1,
+      "price": 4000000,
+      "currency": "IDR",
+      "description": "<figure class=\"media\"><oembed url=\"https://www.youtube.com/watch?v=pVm1vOkNBnk&amp;ab_channel=beebotautomotive\"></oembed></figure><p>&nbsp;</p><figure class=\"table\"><table><tbody><tr><td colspan=\"2\">Specifications</td></tr><tr><td>Design</td><td>3 Inch Diamond Lens &amp; Blue Lens</td></tr><tr><td>Low Beam</td><td>57 Watt</td></tr><tr><td>High Beam</td><td>60 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Cooling</td><td>Advanced Cooling System</td></tr><tr><td>Cut Off</td><td>Flat</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-09-08T03:51:44.000000Z",
+      "updated_at": "2023-05-02T07:15:16.000000Z",
+      "images": [
+        {
+          "id": 15,
+          "img_src": "/img/product/master/19/SLIDE-1-KTG-g7-jpg.jpg",
+          "img_alt": "SLIDE-1-KTG-g7-jpg.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 16,
+          "img_src": "/img/product/master/19/SLIDE-2-KTG-g7-jpg.jpg",
+          "img_alt": "SLIDE-2-KTG-g7-jpg.jpg",
+          "thumbnail": 0
+        }
+      ],
+      "review": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "rating": 4,
+          "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "created_at": "2024-03-02T07:15:16.000000Z"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "rating": 5,
+          "review": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "created_at": "2023-12-02T07:15:16.000000Z"
+        }
+      ],
+      "videos": [
+        {
+          "id": 1,
+          "name": "G7 MKII Beebot official Palembang",
+          "description": "Review Beebot G7 MKII",
+          "url": "https://www.youtube.com/embed/myxn5NYE16E"
+        },
+        {
+          "id": 2,
+          "name": "Review BEEBOT G7 Mark-II di Suzuki Ertiga | Paling Terang‼",
+          "description": "Review Pemasangan Beebot G7 MKII Suzuki Ertiga",
+          "url": "https://www.youtube.com/embed/XcIiICFkFYo"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "GP FOG LASER",
+      "visible": 1,
+      "price": 5500000,
+      "currency": "IDR",
+      "description": "<p><strong>The Best Rain &amp; Fog Breaker</strong></p><p>&nbsp;</p><blockquote><p>First ever projector series in Indonesia with always-on Laser Assist Technology</p></blockquote><p>&nbsp;</p><figure class=\"table\"><table><thead><tr><th colspan=\"2\">Specifications</th></tr></thead><tbody><tr><td>Design</td><td>3\" Diamond Lens</td></tr><tr><td>Low Beam</td><td>65 Watt</td></tr><tr><td>High Beam</td><td>75 Watt</td></tr><tr><td>Warranty</td><td>National, 24 Months</td></tr><tr><td>Laser</td><td>Bi-Laser Technology</td></tr><tr><td>Cut Off</td><td>Flat</td></tr><tr><td>Laser Assist</td><td>Low Beam &amp; High Beam</td></tr><tr><td>Cooling</td><td>State-of-the-art Cooling System</td></tr></tbody></table></figure>",
+      "status": 1,
+      "created_at": "2022-09-08T03:49:37.000000Z",
+      "updated_at": "2024-01-16T07:13:42.000000Z",
+      "images": [
+        {
+          "id": 19,
+          "img_src": "/img/product/master/18/KTG GPFOGLASER _1.jpg",
+          "img_alt": "KTG GPFOGLASER _1.jpg",
+          "thumbnail": 1
+        },
+        {
+          "id": 20,
+          "img_src": "/img/product/master/18/KTG GPFOGLASER _2.jpg",
+          "img_alt": "KTG GPFOGLASER _2.jpg",
+          "thumbnail": 0
+        }
+      ]
+    },
     {
       "id": 38,
       "name": "MK1 PRO",
@@ -299,62 +299,6 @@
       "coordinates": {
         "latitude": 3.5245437,
         "longitude": 98.6724195
-      }
-    },
-    {
-      "id": 11,
-      "name": "Zona Audio Medan",
-      "gmap": "https://maps.app.goo.gl/82ChdDD1PuDNFtVZ7",
-      "visible": 1,
-      "accounts": {
-        "whatsapp": "628116103838",
-        "instagram": "zonaaudio_medan"
-      },
-      "coordinates": {
-        "latitude": 3.6021316238415486,
-        "longitude": 98.645102115475
-      }
-    },
-    {
-      "id": 13,
-      "name": "Sanjaya Ac & Lighting",
-      "gmap": "https://g.page/sanjaya-accessories?share",
-      "visible": 1,
-      "accounts": {
-        "whatsapp": "628127646685",
-        "instagram": "sanjaya.ac.lighting"
-      },
-      "coordinates": {
-        "latitude": 0.5243226135867024,
-        "longitude": 101.47795995721758
-      }
-    },
-    {
-      "id": 14,
-      "name": "Wijaya Motor Ngawi",
-      "gmap": "https://g.page/wijayamotorngawi?share",
-      "visible": 1,
-      "accounts": {
-        "whatsapp": "6282227877077",
-        "instagram": "wijayamotorngawi"
-      },
-      "coordinates": {
-        "latitude": -7.4127672,
-        "longitude": 111.4405514
-      }
-    },
-    {
-      "id": 15,
-      "name": "Projie-Nethics",
-      "gmap": "https://g.page/ProjieNethics?share",
-      "visible": 1,
-      "accounts": {
-        "whatsapp": "6282218588887",
-        "instagram": "projienethics_auto"
-      },
-      "coordinates": {
-        "latitude": -6.9307707,
-        "longitude": 107.6157532
       }
     }
   ]
